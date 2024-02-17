@@ -1,2 +1,1 @@
-LIVE. DATA.
 # LiveViewModel
